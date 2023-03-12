@@ -73,7 +73,7 @@ Wireframes can be seen on a link: https://balsamiq.cloud/s4a5j6m/payzzo7
 ## 4.  Functionality
     
 
-### 4.1. Landing page (organization and student) [#1](https://github.com/Cerka24/NOW-issues/issues/1)
+### 4.1. Landing page (organization and student) [#1](/../../issues/1)
 
 Starting with a landing page that can be accessed by both students and the organization is designed to simplify the way students/organizations work and collaborate with others. Our app offers a clean and simple user interface, making it easy to navigate and get the job done efficiently and effectively.
 
@@ -86,7 +86,7 @@ Whether organization is looking for students to complete tasks or a student is s
   
   
 
-### 4.2. Registration and login page (organization and student)
+### 4.2. Registration and login page (organization and student) [#1](/../../issues/2)
 
 The registration page is a crucial step in creating a user account on our platform. It's important to us that the registration process is as seamless and user-friendly as possible. Therefore, we have designed our registration page to be used only once by each user and ask only for essential information needed to create the account.
 
@@ -98,13 +98,13 @@ Once the user has successfully created their account, they will be able to log i
 
   
 
-### 4.3. Onboarding page (student)
+### 4.3. Onboarding page (student) [#1](/../../issues/3)
 
 Onboarding page represents a form that needs to be filled out by a student in order to apply for a volunteering job. This page includes fields such as short bio and list of certificates, where students need to write their short description about themselves and the achievements that they obtained during their academic career. University year and chosen organization represents two dropdown menus and students are also required to upload their photo, write their GPA and then to paste a link from their LinkedIn account.
 
   
 
-### 4.4. Opportunity page (pages:feed, details, modals: create opportunity and apply for) (student and organization)
+### 4.4. Opportunity page (pages:feed, details, modals: create opportunity and apply for) (student and organization) [#1](/../../issues/4)
 
 Opportunity page enables students to search for new volunteering jobs/events. On this page companies could make new advertisements for the job (with description and requirements). Window for adding new advertisements contains several fields: title, open until, description and requierments. The navigation part of this page for companies include: opportunities, all my students and logout.
 
@@ -112,7 +112,7 @@ When students are applying for a job/event students can submit their motivationa
 
   
 
-### 4.5. My Work page (student)
+### 4.5. My Work page (student) [#1](/../../issues/5)
 
 The Work page is accessed only by a student. Besides displaying the list of all opportunities which were applied for by a student, it also provides a view of the status of every application, no matter whether it was accepted or rejected by an organization. In short, this page shows the history of all opportunities for which the student sent the applications to the organizations.
 
@@ -132,7 +132,7 @@ The tabular form of the past applications includes:
   
   
 
-### 4.6. Portfolio page (student)
+### 4.6. Portfolio page (student) [#1](/../../issues/6)
 
 The Portfolio page is sort of like a profile page for the student, which can be viewed by other students and an organization as well. The page provides the ability to overview the student's personal information and also displays his/her previous works.
 
@@ -172,7 +172,7 @@ An option to download the student info is provided as well, which can be used in
 
   
 
-### 4.7. Opportunity details (+ student application modal) (organization)
+### 4.7. Opportunity details (+ student application modal) (organization) [#1](/../../issues/7)
 
 Opportunity details view from the organization’s side will be a preview format of what organization has published.
 
@@ -223,7 +223,7 @@ That button will lead to modal which includes:
 -   Buttons: reject, accept, decide later
     
 
-### 4.8. Student list (organization)
+### 4.8. Student list (organization) [#1](/../../issues/8)
 
 Student list is another page on organization’s side. There they can see a table in which are all students that are a part of their organization. The goal is to allow user’s see student’s performance.
 
