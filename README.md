@@ -73,7 +73,7 @@ Wireframes can be seen on a link: https://balsamiq.cloud/s4a5j6m/payzzo7
 ## 4.  Functionality
     
 
-### 4.1. Landing page (organization and student)
+### 4.1. Landing page (organization and student) #1
 
 Starting with a landing page that can be accessed by both students and the organization is designed to simplify the way students/organizations work and collaborate with others. Our app offers a clean and simple user interface, making it easy to navigate and get the job done efficiently and effectively.
 
